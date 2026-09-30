@@ -2,6 +2,12 @@
 
 INVENI 임직원들이 GitHub organization(`INVENI-agentteam`)에 등록한 agent(레포지토리)를 모니터링하기 위한 대시보드입니다. 조직도(`ORGANIZATION.md`)와 GitHub 등록 현황을 매핑해서 누가 어떤 agent를 등록했는지, 정상 동작하는지, 방치되지 않았는지를 한눈에 보여줍니다.
 
+## Agent명
+INVENI Agent 등록 통계 대시보드
+
+## 설명
+INVENI 임직원들이 GitHub organization에 등록한 agent를 모니터링하는 대시보드입니다. 조직도와 GitHub 등록 현황을 매핑해 누가 어떤 agent를 등록했는지, 빌드·보안 상태가 정상인지, 오래 방치된 건 아닌지를 한눈에 보여주고, 신규 등록·수정 시 Telegram 알림을 보내며 조직 구성원용 커뮤니티 게시판도 제공합니다.
+
 ## 주요 기능
 
 ### Agent 등록 현황
