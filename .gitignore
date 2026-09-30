@@ -1,0 +1,4 @@
+.env
+.workspaces/
+node_modules/
+.venv/
